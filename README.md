@@ -1,8 +1,9 @@
 PocketBuddy: The Guilt-Free Spending Tracker 😎
-The Problem 😥
+
+The Problem :
 Many students struggle to manage their daily spending because they know their monthly budget but have no clear idea of how much they can safely spend each day after paying fixed expenses. This often leads to overspending and stress.
 
-The Solution ✨
+The Solution :
 This project, PocketBuddy, is a simple Python tool that solves this problem. By taking your monthly income and fixed expenses, it automatically calculates your daily "guilt-free" spending allowance. The tool also provides instant feedback on your daily spending and visualizes where your money is going, making budgeting simple and actionable.
 
 How It Works ⚙️
