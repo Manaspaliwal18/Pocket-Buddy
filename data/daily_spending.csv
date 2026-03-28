@@ -1,5 +1,48 @@
-date,amount,Category
-2025-08-14 00:00:00,250.0,shopping
-2025-08-14,500.0,food
-2025-08-14,400.0,shopping
-2025-08-14,8000.0,shopping
+date,amount,category
+2025-06-01,450,Food & Dining
+2025-06-01,120,Transport
+2025-06-02,890,Shopping
+2025-06-02,200,Food & Dining
+2025-06-03,550,Entertainment
+2025-06-03,300,Utilities
+2025-06-04,380,Food & Dining
+2025-06-04,95,Transport
+2025-06-05,1200,Shopping
+2025-06-05,420,Food & Dining
+2025-06-06,180,Health
+2025-06-06,310,Food & Dining
+2025-06-07,760,Entertainment
+2025-06-07,450,Utilities
+2025-06-08,290,Food & Dining
+2025-06-08,140,Transport
+2025-06-09,520,Shopping
+2025-06-09,380,Food & Dining
+2025-06-10,200,Health
+2025-06-10,670,Food & Dining
+2025-06-11,110,Transport
+2025-06-11,340,Utilities
+2025-06-12,480,Food & Dining
+2025-06-12,900,Shopping
+2025-06-13,260,Entertainment
+2025-06-13,195,Food & Dining
+2025-06-14,430,Food & Dining
+2025-06-15,320,Transport
+2025-06-15,580,Shopping
+2025-06-16,440,Food & Dining
+2025-06-16,250,Health
+2025-06-17,370,Utilities
+2025-06-17,210,Food & Dining
+2025-06-18,490,Entertainment
+2025-06-18,330,Food & Dining
+2025-06-19,175,Transport
+2025-06-19,610,Shopping
+2025-06-20,280,Food & Dining
+2025-06-20,150,Health
+2025-06-21,420,Food & Dining
+2025-06-21,290,Utilities
+2025-06-22,540,Shopping
+2025-06-22,360,Food & Dining
+2025-06-23,130,Transport
+2025-06-23,470,Entertainment
+2025-06-24,390,Food & Dining
+2025-06-25,220,Health

@@ -1,4 +1,3 @@
-Expense,amount,category
-food,200.0,
-food,250.0,
-,200.0,food
+expense,amount,category
+rent,5000,housing
+food,200,food
